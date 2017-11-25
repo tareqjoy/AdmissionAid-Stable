@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Projects\\android_studio\\AdmissionAid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tareq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63f87247c0204d9d1e58c7f981ca0310\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,8,12,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,1040",
+                        "endLines": "2,3,7,11,15,20",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,1128"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tareq\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\37fad9c4d38e2fd7f87e32a7d61bd022\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "796,1133",
+                        "endLines": "19,21",
+                        "endColumns": "12,96",
+                        "endOffsets": "1035,1225"
+                    }
+                }
+            ]
+        }
+    ]
+}
